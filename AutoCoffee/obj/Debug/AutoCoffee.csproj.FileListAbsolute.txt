@@ -1,0 +1,5 @@
+D:\Dev\AutoCoffee2020\AutoCoffee\AutoCoffee\bin\Debug\AutoCoffee.dll
+D:\Dev\AutoCoffee2020\AutoCoffee\AutoCoffee\bin\Debug\AutoCoffee.pdb
+D:\Dev\AutoCoffee2020\AutoCoffee\AutoCoffee\obj\Debug\AutoCoffee.csproj.CoreCompileInputs.cache
+D:\Dev\AutoCoffee2020\AutoCoffee\AutoCoffee\obj\Debug\AutoCoffee.dll
+D:\Dev\AutoCoffee2020\AutoCoffee\AutoCoffee\obj\Debug\AutoCoffee.pdb

@@ -5,9 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
+using Newtonsoft.Json;
 
 namespace AutoCoffee
 {
+
+
     class ModConfig
     {
         public string coffeeButton { get; set; } = Keys.Q.ToString();
@@ -17,13 +20,21 @@ namespace AutoCoffee
         public bool logToCosole { get; set; } = true;
         public int baseBuffID { get; set; } = 880;
 
-        public int[][] coffeeDeffinition = new int[][]
+        public string[] coffeeTypes = new string[]
         {
-            new int[] { 395, 120, 2 },
-            new int[] { 253 , 300, 2 }
+            JsonConvert.SerializeObject(new Dictionary<string,string>() {
+                { "name", "Coffee"},
+                { "id", "395"},
+                { "millisecondsDuration", "120000"},
+                { "speed", "2"}
+            }),
+            JsonConvert.SerializeObject(new Dictionary<string,string>() {
+                { "name", "Espresso"},
+                { "id", "253"},
+                { "millisecondsDuration", "300000"},
+                { "speed", "2"}
+            })
         };
-
-        
 
     }
 }

@@ -3,3 +3,12 @@ D:\Dev\AutoCoffee2020\AutoCoffee\AutoCoffee\bin\Debug\AutoCoffee.pdb
 D:\Dev\AutoCoffee2020\AutoCoffee\AutoCoffee\obj\Debug\AutoCoffee.csproj.CoreCompileInputs.cache
 D:\Dev\AutoCoffee2020\AutoCoffee\AutoCoffee\obj\Debug\AutoCoffee.dll
 D:\Dev\AutoCoffee2020\AutoCoffee\AutoCoffee\obj\Debug\AutoCoffee.pdb
+D:\Dev\AutoCoffee2021\Auto-Coffee\AutoCoffee\obj\Debug\AutoCoffee.csprojAssemblyReference.cache
+D:\Dev\AutoCoffee2021\Auto-Coffee\AutoCoffee\obj\Debug\AutoCoffee.csproj.CoreCompileInputs.cache
+D:\Dev\AutoCoffee2021\Auto-Coffee\AutoCoffee\obj\Debug\AutoCoffee.dll
+D:\Dev\AutoCoffee2021\Auto-Coffee\AutoCoffee\obj\Debug\AutoCoffee.pdb
+D:\Dev\AutoCoffee2021\Auto-Coffee\AutoCoffee\bin\Debug\AutoCoffee.dll
+D:\Dev\AutoCoffee2021\Auto-Coffee\AutoCoffee\bin\Debug\AutoCoffee.pdb
+D:\Dev\AutoCoffee2021\Auto-Coffee\AutoCoffee\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\AutoCoffee2021\Auto-Coffee\AutoCoffee\bin\Debug\Newtonsoft.Json.xml
+D:\Dev\AutoCoffee2021\Auto-Coffee\AutoCoffee\obj\Debug\AutoCoffee.csproj.CopyComplete

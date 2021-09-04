@@ -1,7 +1,7 @@
 ﻿{
   "Name": "AutoCoffee",
   "Author": "BenDover",
-  "Version": "2.1.2",
+  "Version": "2.2.1",
   "Description": "Quicker coffee",
   "UniqueID": "BenjaminWilcox.AutoCoffee",
   "EntryDll": "AutoCoffee.dll",
